@@ -12,7 +12,7 @@ export const globalStyles = globalCss({
     boxSizing: "border-box",
   },
   "body > div": {
-    background: `url(./img/background.jpg) no-repeat`,
+    // background: `url(./img/background.jpg) no-repeat`,
     backgroundSize: "cover",
     width: "100vw",
     height: "100vh",
